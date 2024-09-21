@@ -69,3 +69,51 @@
   69        0.027 pwd
   70       45.459 git pull origin main --allow-unrelated-histories
   71        1.674 git push origin main
+   0.067 git status
+   3        0.076 git add .
+   4        0.064 git status
+   5        0.077 git status
+   6        0.072 git restore --staged git command.txt
+   7        0.072 git restore --satged git_command.txt
+   8        0.060 git status
+   9        0.070 git add Index.html
+  10        0.065 git status
+  11        0.125 git commit -m "Update portfolio with new project"
+  12        0.063 git status
+  13        2.694 git push origin main
+  14        0.068 git status
+  15        0.116 git checkout -b add-css…
+  16        0.069 git status
+  17       13.413 git log --all
+  18        0.073 clear
+  19        0.091 git status
+  20        0.246 <link rel="stylesheet" href="styles.css">…
+  21        0.064 git status
+  22        0.109 git add .
+  23        0.070 git status
+  24        0.155 git commit -m "Add CSS styling"
+  25        0.061 git status
+  26        0.081 git checkout main
+  27        0.156 git branch --all
+  28        0.116 git merge add-css
+  29        3.000 git push origin main
+  30        0.098 git status
+  31        0.062 git add .
+  32        0.099 git checkout add-css
+  33        0.073 git commit -m "Adding add-css branch"
+  34        0.162 git branch --all
+  35        0.087 git checkout main…
+  36        1.190 git pull origin main…
+  37        0.088 git merge add-css…
+  38        1.587 git push origin main…
+  39        0.102 git status
+  40        0.143 git branch --all
+  41        0.077 git checkout add-css
+  42        2.122 git push origin add-css
+  43        0.158 git branch --all
+  44        0.142 git branch
+  45        0.064 git checkout main 
+  46        1.163 git pull origin main
+  47        0.061 git merge add-css
+  48        1.684 git push origin main
+  49        0.063 git status
