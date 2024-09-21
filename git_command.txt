@@ -1,0 +1,71 @@
+   1        0.212 try { . "c:\Users\ssuna\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1" } catch {}
+   2        0.073 git init
+   3        0.075 git add.
+   4        0.089 git add index.html
+   5        0.046 git status
+   6        0.058 git checkout main
+   7        0.097 git commit -m "Initial commit: Add portfolio website"…
+   8        0.017 cat index.html
+   9        0.052 git status
+  10        0.034 clear
+  11        0.055 git remote add origin https://github.com/portfolio-website.git
+  12        0.051 git remote add origin https://github.com/Ssharma2609/portfolio-website.git
+  13        0.058 git status
+  14        0.066 git branch -M main
+  15        0.049 git status
+  16        0.050 git remote -v
+  17        0.703 git push -u origin main
+  18        0.006 clear
+  19        0.030 ls
+  20        0.047 git status
+  21        0.675 git push -u origin main
+  22        0.057 git push -u origin https://github.com/Ssharma2609/portfolio-website.git main
+  23        0.307 clea
+  24        0.004 clear
+  25        0.009 ls
+  26        0.032 ls -a
+  27        0.003 clear
+  28        0.063 git branch -M main
+  29        0.047 git remote add origin https://github.com/Ssharma2609/portfolio-website.git
+  30        0.003 clear
+  31        0.065 git remote -v…
+  32        0.051 git remote set-url origin https://github.com/Ssharma2609/portfolio-website.git
+  33        0.040 git remote add origin https://github.com/Ssharma2609/portfolio-website.git
+  34        0.055 git remote remove origin
+  35        0.045 git remote add origin https://github.com/Ssharma2609/portfolio-website.git
+  36        0.043 git remote -v
+  37        0.054 git branch -M main
+  38        0.051 git status
+  39        1.442 git push -u origin main
+  40        0.727 git push --help
+  41        0.541 git push --help
+  42        0.011 clear
+  43        1.703 git pull origin main…
+  44        0.053 git add .
+  45        0.092 git commit -m "Resolved merge conflicts"
+  46        1.431 git push -u origin main…
+  47        0.168 git branch -a
+  48        1.293 git push --set-upstream origin main
+  49        1.088 git pull origin main
+  50        0.128 git branch -a
+  51        1.274 git push --set-upstream origin main
+  52        1.377 git push origin main
+  53        0.045 git remote -v
+  54        0.867 git fetch origin
+  55        0.129 git branch -a
+  56        1.541 git pull origin
+  57        0.060 git push --set-upstream origin
+  58        0.126 git log --all
+  59        0.071 git remote -v
+  60        0.067 git status
+  61        0.070 git status
+  62        0.091 git add .
+  63        0.135 git commit -m "Resolved merge conflicts"
+  64        0.054 git push --set-upstream origin
+  65        2.170 git push --set-upstream origin main
+  66        1.561 git push origin main
+  67        1.147 git pull origin main
+  68        0.134 git log --all
+  69        0.027 pwd
+  70       45.459 git pull origin main --allow-unrelated-histories
+  71        1.674 git push origin main
